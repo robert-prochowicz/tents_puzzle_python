@@ -24,3 +24,5 @@ This is the actual solver of the puzzle.
 examples.py - this file contains examples of puzzles: easy and pretty difficult. It also contains snapshots - half-solved puzzles which I struggled with until I found a working solving scenario. Just pick an example and use it's name in basenyPyCharm5.py file.
 
 basenyPyCharm5.py - actual solver . Run the program and select the option from menu. Choose a scenario you want to apply. Statistics will show if you are making any progress. Try different scenarios in loops until you solve the puzzle.
+
+In my program House means Tent, Tank means Tree. Just so you know.
