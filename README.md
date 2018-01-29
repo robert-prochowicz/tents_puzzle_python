@@ -2,7 +2,7 @@
 A Python program that solves Tents puzzle (tents and trees). The first program transforms an image of the puzzle into a numeric form. The second part applies a set of scenarios that finally leads to a solution of the puzzle. I have managed to solve the most difficult puzzles with this program. I know, it is too big and the code is to dirty. And the program should not run all the scenarios, but use some kind of decision tree to solve it. However, this approach with scenarios also has some advantages: you can see which scenarios are working, and wich aren't.
 I really, really plan to clean the code and make it easier to understand. But you know how it is with free time...
 
-#### 1) pil_script.py ####
+#### 1) pil_script.py + a04621.jpg (example scan of a puzzle - medium difficulty) ####
 1. Scanning the image
 Scan the image. Use .jpg format.
 If you can't scan it take a picture
